@@ -1,0 +1,80 @@
+body {
+  min-height: 2000px;
+}
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+  80% {
+    opacity: 0.5;
+  }
+  50% {
+    color: white;
+  }
+}
+h1 {
+  text-shadow: 2px #070b12;
+  font-family: calibri;
+  color: white black;
+  animation: blink 10s linear infinite;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+  background: url(ay.jpg);
+}
+#projects {
+  background-color: #e2edff;
+  color: rgba(240, 255, 255, 0.673);
+}
+section {
+  padding-top: 5rem;
+}
+
+.social-links {
+  padding-top: 2rem;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-instagram {
+  background: #0b0f16;
+  color: white;
+}
+
+.fa-facebook {
+  background: #070b12;
+  color: white;
+}
+
+.fa-github {
+  background: #0c0f14;
+  color: white;
+  rounded-top-left: 10px;
+}
+
+.fa-linkedin {
+  background: black;
+  color: white;
+}
+.fa-whatsapp {
+  background: black;
+  color: white;
+}
+
+#submit:hover {
+  background-color: black;
+}
