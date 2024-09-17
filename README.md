@@ -1,5 +1,5 @@
 # Portofolio 
-Ini adalah Templet portofolio sederhana yang dibuat dengan HTML,CSS Dan javscritpt menggunakan framworkd Bootstrap. Portofolio ini berisi informasi dasar tentang saya, serta beberapa contoh proyek yang telah saya kerjakan.
+Ini adalah Templet portofolio sederhana yang dibuat dengan HTML,CSS Dan javscritpt menggunakan framework Bootstrap. Portofolio ini berisi informasi dasar tentang saya, serta beberapa contoh proyek yang telah saya kerjakan.
 
 ![Screenshot 2024-09-17 204237](https://github.com/user-attachments/assets/ff481dce-fdae-43b0-861e-069d9a676a35)
 
