@@ -1,28 +1,24 @@
-# Portofolio 
-Ini adalah Templet portofolio sederhana yang dibuat dengan HTML,CSS Dan javascritpt menggunakan framework Bootstrap. Portofolio ini berisi informasi dasar tentang saya, serta beberapa contoh proyek yang telah saya kerjakan.
+# Portfolio This is a simple portfolio template made with HTML, CSS and JavaScript using the Bootstrap framework. This portfolio contains basic information about me, as well as some examples of projects I have worked on.
 
 ![Screenshot 2024-09-17 204237](https://github.com/user-attachments/assets/ff481dce-fdae-43b0-861e-069d9a676a35)
 
+## Features
+* Responsive design that looks good on all devices.
+* About me section with basic information.
+* Project gallery with short descriptions.
+* Contact with contact information.
 
-## Fitur
-
-* Desain responsif yang terlihat bagus di semua perangkat.
-* Bagian tentang saya dengan informasi dasar.
-* Galeri proyek dengan deskripsi singkat.
-* Kontak dengan informasi kontak.
-
-## Teknologi
-
+## Technologies 
 * HTML
 * CSS
 * Javascript
 * Bootstrap
 
-## Kontribusi
+## Contributions 
+Contributions are very welcome! Please open an issue to report bugs or propose features.
 
-Kontribusi sangat diterima! Silakan buka masalah untuk melaporkan bug atau mengajukan fitur.
+##Credits
 
-##Creadits
+Wobi Nurdiansyah 9/17/2024 
 
-Wobi Nurdiansyah 9/17/2024
 ***
